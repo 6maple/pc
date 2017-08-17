@@ -16,7 +16,7 @@
 <!-- 引入导出CSV的文件-->
 <script src="export.js"></script>
 <!-- 先引入 Vue -->
-  <script src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
 <!-- 引入组件库 -->
 <script src="https://unpkg.com/element-ui/lib/index.js"></script>
 ```
